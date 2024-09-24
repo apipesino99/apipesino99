@@ -5,3 +5,5 @@ Hello! I'm a passionate QA Automator with a keen focus on Java and Angular. My j
 As I continue my journey in QA development, I am always on the lookout for collaborative projects and opportunities where I can contribute my skills and grow both personally and professionally. Let's connect and explore how we can create something amazing together!
 ## experience
 I have experience as manual QA
+## Technologies
+- QA: Proficient in Selenium
