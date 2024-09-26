@@ -7,3 +7,6 @@ As I continue my journey in QA development, I am always on the lookout for colla
 I have experience as manual QA
 ## Skills
 - Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+## Technologies
+- QA: Proficient in Selenium
+
