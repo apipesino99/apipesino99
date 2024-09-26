@@ -10,3 +10,6 @@ I have experience as manual QA
 ## Technologies
 - QA: Proficient in Selenium
 
+
+## Hobbies
+- Dancing: ...
