@@ -7,3 +7,9 @@ As I continue my journey in QA development, I am always on the lookout for colla
 I have experience as manual QA
 ## Languages
 I am billingual (Spanish: Native; English: C1)
+## Skills
+- Problem-Solving: As a developer, I thrive on solving complex problems. I’m constantly exploring new technologies and...
+## Technologies
+- QA: Proficient in Selenium
+## Hobbies
+- Dancing: ...
